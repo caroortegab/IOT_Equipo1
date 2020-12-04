@@ -15,10 +15,13 @@ Debido a las circunstancias en las que nos encontramos actualmente, nos es muy d
 De esta manera, lograremos disminuir contagios y estar más controlados internamente. 
 
 # Diseño e implementación del prototipo
-Los datos pueden ser visualizados por el paciente cuando son pedidos por Whatsapp. Utilizando algunos mensajes el programa accede a la base de datos y crea una imagen para la fácil visualización de los datos. 
+Los datos pueden ser visualizados por el paciente cuando son pedidos por Whatsapp. Utilizando algunos mensajes el programa accede a la base de datos y crea una imagen para la fácil visualización de los datos.
+
 <img width="294" alt="Screen Shot 2020-12-03 at 21 21 07" src="https://user-images.githubusercontent.com/57368415/101117845-8d3afe00-35ad-11eb-97e5-3e030e46fb4a.png">
+
 <img width="282" alt="Screen Shot 2020-12-03 at 21 21 19" src="https://user-images.githubusercontent.com/57368415/101117864-94620c00-35ad-11eb-8d1c-d24f467e0980.png">
-***Muestra de cómo Twilio interactúa con el paciente***
+
+# Muestra de la interacción de Twilio con el usuario
 <img width="204" alt="Screen Shot 2020-12-03 at 21 21 32" src="https://user-images.githubusercontent.com/57368415/101117871-97f59300-35ad-11eb-93df-b613994c5184.png">
 
 # Escenario
