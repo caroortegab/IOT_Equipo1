@@ -15,18 +15,17 @@ Debido a las circunstancias en las que nos encontramos actualmente, nos es muy d
 De esta manera, lograremos disminuir contagios y estar más controlados internamente. 
 
 # Diseño e implementación del prototipo
-Los datos pueden ser visualizados por el paciente cuando son pedidos por Whatsapp. Utilizando algunos mensajes el programa accede a la base de datos y crea una imagen para la fácil visualización de los datos. Es posible que los usuarios del dispositivo vean los datos de todos los pacientes que han usado el dispositivo con las tablas hechas por tableau, donde es posible visualizar los datos de cada paciente.
+Los datos pueden ser visualizados por el paciente cuando son pedidos por Whatsapp. Utilizando algunos mensajes el programa accede a la base de datos y crea una imagen para la fácil visualización de los datos. 
+<img width="294" alt="Screen Shot 2020-12-03 at 21 21 07" src="https://user-images.githubusercontent.com/57368415/101117845-8d3afe00-35ad-11eb-97e5-3e030e46fb4a.png">
+<img width="282" alt="Screen Shot 2020-12-03 at 21 21 19" src="https://user-images.githubusercontent.com/57368415/101117864-94620c00-35ad-11eb-8d1c-d24f467e0980.png">
+***Muestra de cómo Twilio interactúa con el paciente***
+<img width="204" alt="Screen Shot 2020-12-03 at 21 21 32" src="https://user-images.githubusercontent.com/57368415/101117871-97f59300-35ad-11eb-93df-b613994c5184.png">
 
 # Escenario
 Este dispositivo está adaptado para ponerse tanto en super, hospitales o en el hogar del usuario. Para así poder medir el ritmo cardíaco de cualquier persona en el momento y hacer un chequeo instantáneo. Al hacer este chequeo de manera constante se puede tener en la base de datos una buena historia clínica de cada usuario, la cual le puede ser útil a un doctor a la hora de identificar cualquier problema o signo de alerta.
 
 # Tableau
-En tableau se realizo una práctica para que se pudiera ver de una manera más visual los datos de la base de datos. 
+En tableau se realizo una práctica para que se pudiera ver de una manera más visual los datos de la base de datos.Es posible que los usuarios del dispositivo vean los datos de todos los pacientes que han usado el dispositivo con las tablas hechas por tableau, donde es posible visualizar los datos de cada paciente.
 <img width="1019" alt="Screen Shot 2020-12-03 at 19 22 42" src="https://user-images.githubusercontent.com/57368415/101117459-9c6d7c00-35ac-11eb-83fe-6577082ca9d7.png">
 <img width="1280" alt="Screen Shot 2020-12-03 at 19 24 00" src="https://user-images.githubusercontent.com/57368415/101117651-1271e300-35ad-11eb-96e4-d7df7cd06cbc.png">
 
-
-```def python
-codigo de 
-ruben
-´´´
