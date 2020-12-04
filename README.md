@@ -20,6 +20,11 @@ Los datos pueden ser visualizados por el paciente cuando son pedidos por Whatsap
 # Escenario
 Este dispositivo está adaptado para ponerse tanto en super, hospitales o en el hogar del usuario. Para así poder medir el ritmo cardíaco de cualquier persona en el momento y hacer un chequeo instantáneo. Al hacer este chequeo de manera constante se puede tener en la base de datos una buena historia clínica de cada usuario, la cual le puede ser útil a un doctor a la hora de identificar cualquier problema o signo de alerta.
 
+# Tableau
+En tableau se realizo una práctica para que se pudiera ver de una manera más visual los datos de la base de datos. 
+<img width="1019" alt="Screen Shot 2020-12-03 at 19 22 42" src="https://user-images.githubusercontent.com/57368415/101117459-9c6d7c00-35ac-11eb-83fe-6577082ca9d7.png">
+
+
 ```def python
 codigo de 
 ruben
