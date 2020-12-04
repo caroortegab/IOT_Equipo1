@@ -2,7 +2,7 @@
 ***Integrantes***
 - Carolina Ortega - A01025254
 - Ximena Gonzalez - A01028604
-- Chucho Imanol García - A01652759
+- Imanol García - A01652759
 - Adrián Pineda - A01025561
 # Contexto y planeación del proyecto
 ***Evidencia de la respuesta a un proceso completo de intercomunicación en el proyecto Iot permitiendo la conexión entre un servicio en la nube (twilio) y un servidor local de servicios distribuidos (api de servicios). Con esto logramos obtener la información de acuerdo al usuario, quien la pide mediante su numero de teléfono.***
