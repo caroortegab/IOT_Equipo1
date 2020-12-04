@@ -23,6 +23,7 @@ Este dispositivo está adaptado para ponerse tanto en super, hospitales o en el 
 # Tableau
 En tableau se realizo una práctica para que se pudiera ver de una manera más visual los datos de la base de datos. 
 <img width="1019" alt="Screen Shot 2020-12-03 at 19 22 42" src="https://user-images.githubusercontent.com/57368415/101117459-9c6d7c00-35ac-11eb-83fe-6577082ca9d7.png">
+<img width="1280" alt="Screen Shot 2020-12-03 at 19 24 00" src="https://user-images.githubusercontent.com/57368415/101117651-1271e300-35ad-11eb-96e4-d7df7cd06cbc.png">
 
 
 ```def python
